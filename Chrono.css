@@ -1,0 +1,19 @@
+.demochrono {
+    font-size: 5rem;
+    margin: 1rem auto;
+    padding: 2rem;
+    background-color: #eee;
+}
+  
+.time {
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+}
+
+.controls {
+    margin-top: 1rem;
+}
+
+.controls > button {
+    width: 50%;
+    font-size: 3rem;
+}
